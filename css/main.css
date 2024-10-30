@@ -11,6 +11,16 @@ body {
     background-color: #ffffff;
 }
 
+header {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+header img {
+    max-height: 160px;
+}
+
 h1,
 h2 {
     font-family: "Noto Serif Georgian", serif;
